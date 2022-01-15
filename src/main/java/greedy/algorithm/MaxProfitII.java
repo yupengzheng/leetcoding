@@ -2,7 +2,7 @@ package greedy.algorithm;
 
 public class MaxProfitII {
     /**
-     * 思维：
+     * //TODO 思维：
      * 1.只能买入或卖出
      * 2.波峰波谷
      * @param prices
